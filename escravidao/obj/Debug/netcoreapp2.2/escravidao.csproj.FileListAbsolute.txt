@@ -1,0 +1,11 @@
+C:\Users\49281738805\Documents\exercicios\escravidao\obj\Debug\netcoreapp2.2\escravidao.csprojAssemblyReference.cache
+C:\Users\49281738805\Documents\exercicios\escravidao\obj\Debug\netcoreapp2.2\escravidao.csproj.CoreCompileInputs.cache
+C:\Users\49281738805\Documents\exercicios\escravidao\obj\Debug\netcoreapp2.2\escravidao.AssemblyInfoInputs.cache
+C:\Users\49281738805\Documents\exercicios\escravidao\obj\Debug\netcoreapp2.2\escravidao.AssemblyInfo.cs
+C:\Users\49281738805\Documents\exercicios\escravidao\bin\Debug\netcoreapp2.2\escravidao.deps.json
+C:\Users\49281738805\Documents\exercicios\escravidao\bin\Debug\netcoreapp2.2\escravidao.runtimeconfig.json
+C:\Users\49281738805\Documents\exercicios\escravidao\bin\Debug\netcoreapp2.2\escravidao.runtimeconfig.dev.json
+C:\Users\49281738805\Documents\exercicios\escravidao\bin\Debug\netcoreapp2.2\escravidao.dll
+C:\Users\49281738805\Documents\exercicios\escravidao\bin\Debug\netcoreapp2.2\escravidao.pdb
+C:\Users\49281738805\Documents\exercicios\escravidao\obj\Debug\netcoreapp2.2\escravidao.dll
+C:\Users\49281738805\Documents\exercicios\escravidao\obj\Debug\netcoreapp2.2\escravidao.pdb
