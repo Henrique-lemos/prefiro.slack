@@ -1,0 +1,11 @@
+C:\Users\49281738805\Documents\exercicios\penacova\obj\Debug\netcoreapp2.2\penacova.csprojAssemblyReference.cache
+C:\Users\49281738805\Documents\exercicios\penacova\obj\Debug\netcoreapp2.2\penacova.csproj.CoreCompileInputs.cache
+C:\Users\49281738805\Documents\exercicios\penacova\obj\Debug\netcoreapp2.2\penacova.AssemblyInfoInputs.cache
+C:\Users\49281738805\Documents\exercicios\penacova\obj\Debug\netcoreapp2.2\penacova.AssemblyInfo.cs
+C:\Users\49281738805\Documents\exercicios\penacova\bin\Debug\netcoreapp2.2\penacova.deps.json
+C:\Users\49281738805\Documents\exercicios\penacova\bin\Debug\netcoreapp2.2\penacova.runtimeconfig.json
+C:\Users\49281738805\Documents\exercicios\penacova\bin\Debug\netcoreapp2.2\penacova.runtimeconfig.dev.json
+C:\Users\49281738805\Documents\exercicios\penacova\bin\Debug\netcoreapp2.2\penacova.dll
+C:\Users\49281738805\Documents\exercicios\penacova\bin\Debug\netcoreapp2.2\penacova.pdb
+C:\Users\49281738805\Documents\exercicios\penacova\obj\Debug\netcoreapp2.2\penacova.dll
+C:\Users\49281738805\Documents\exercicios\penacova\obj\Debug\netcoreapp2.2\penacova.pdb

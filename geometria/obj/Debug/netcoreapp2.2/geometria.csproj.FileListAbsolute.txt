@@ -1,0 +1,11 @@
+C:\Users\49281738805\Documents\exercicios\geometria\obj\Debug\netcoreapp2.2\geometria.csprojAssemblyReference.cache
+C:\Users\49281738805\Documents\exercicios\geometria\obj\Debug\netcoreapp2.2\geometria.csproj.CoreCompileInputs.cache
+C:\Users\49281738805\Documents\exercicios\geometria\obj\Debug\netcoreapp2.2\geometria.AssemblyInfoInputs.cache
+C:\Users\49281738805\Documents\exercicios\geometria\obj\Debug\netcoreapp2.2\geometria.AssemblyInfo.cs
+C:\Users\49281738805\Documents\exercicios\geometria\bin\Debug\netcoreapp2.2\geometria.deps.json
+C:\Users\49281738805\Documents\exercicios\geometria\bin\Debug\netcoreapp2.2\geometria.runtimeconfig.json
+C:\Users\49281738805\Documents\exercicios\geometria\bin\Debug\netcoreapp2.2\geometria.runtimeconfig.dev.json
+C:\Users\49281738805\Documents\exercicios\geometria\bin\Debug\netcoreapp2.2\geometria.dll
+C:\Users\49281738805\Documents\exercicios\geometria\bin\Debug\netcoreapp2.2\geometria.pdb
+C:\Users\49281738805\Documents\exercicios\geometria\obj\Debug\netcoreapp2.2\geometria.dll
+C:\Users\49281738805\Documents\exercicios\geometria\obj\Debug\netcoreapp2.2\geometria.pdb

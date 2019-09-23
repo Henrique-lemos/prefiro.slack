@@ -35,12 +35,6 @@ namespace calculadora
                 Console.WriteLine("Voce falhou com seu professor de matematica");
                 break;
             }
-
-            Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
-            Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
-            Console.WriteLine($"{num1} * {num2} = {num1 * num2}");
-            Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
-            Console.WriteLine($"{num1} % {num2} = {num1 % num2}");
         }
     }
 }
