@@ -1,0 +1,11 @@
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\bin\Debug\netcoreapp2.2\previsaodotempo.deps.json
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\bin\Debug\netcoreapp2.2\previsaodotempo.runtimeconfig.json
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\bin\Debug\netcoreapp2.2\previsaodotempo.runtimeconfig.dev.json
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\bin\Debug\netcoreapp2.2\previsaodotempo.dll
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\bin\Debug\netcoreapp2.2\previsaodotempo.pdb
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\obj\Debug\netcoreapp2.2\previsaodotempo.csprojAssemblyReference.cache
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\obj\Debug\netcoreapp2.2\previsaodotempo.csproj.CoreCompileInputs.cache
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\obj\Debug\netcoreapp2.2\previsaodotempo.AssemblyInfoInputs.cache
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\obj\Debug\netcoreapp2.2\previsaodotempo.AssemblyInfo.cs
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\obj\Debug\netcoreapp2.2\previsaodotempo.dll
+C:\Users\49281738805\Documents\exercicios\previsaodotempo\obj\Debug\netcoreapp2.2\previsaodotempo.pdb

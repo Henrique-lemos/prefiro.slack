@@ -1,0 +1,11 @@
+C:\Users\49281738805\Documents\exercicios\yugioh\bin\Debug\netcoreapp2.2\yugioh.deps.json
+C:\Users\49281738805\Documents\exercicios\yugioh\bin\Debug\netcoreapp2.2\yugioh.runtimeconfig.json
+C:\Users\49281738805\Documents\exercicios\yugioh\bin\Debug\netcoreapp2.2\yugioh.runtimeconfig.dev.json
+C:\Users\49281738805\Documents\exercicios\yugioh\bin\Debug\netcoreapp2.2\yugioh.dll
+C:\Users\49281738805\Documents\exercicios\yugioh\bin\Debug\netcoreapp2.2\yugioh.pdb
+C:\Users\49281738805\Documents\exercicios\yugioh\obj\Debug\netcoreapp2.2\yugioh.csprojAssemblyReference.cache
+C:\Users\49281738805\Documents\exercicios\yugioh\obj\Debug\netcoreapp2.2\yugioh.csproj.CoreCompileInputs.cache
+C:\Users\49281738805\Documents\exercicios\yugioh\obj\Debug\netcoreapp2.2\yugioh.AssemblyInfoInputs.cache
+C:\Users\49281738805\Documents\exercicios\yugioh\obj\Debug\netcoreapp2.2\yugioh.AssemblyInfo.cs
+C:\Users\49281738805\Documents\exercicios\yugioh\obj\Debug\netcoreapp2.2\yugioh.dll
+C:\Users\49281738805\Documents\exercicios\yugioh\obj\Debug\netcoreapp2.2\yugioh.pdb
